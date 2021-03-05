@@ -1,6 +1,6 @@
 body {
   background-image: linear-gradient(lightcoral, plum);
-  height: 600px;
+  height: 800px;
 }
 
 #bow {
@@ -23,12 +23,10 @@ body {
 #flowa2 {
   width: 150px;
   height: 140px;
-  margin-left: auto; 
+  margin-left: auto;
   border: 3px solid black;
   box-shadow: 3px 3px pink;
-  position: absolute;
-  bottom: 0px;
-  right: 0px;
+  display: block;
 }
 
 #title {
